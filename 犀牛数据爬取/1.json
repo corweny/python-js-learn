@@ -1,0 +1,765 @@
+[
+    {'code': 'e8606c07872741899470e80442b8db44', 'name': '数字孪生', 'isNew': True, 'isHot': False, 'createTime': 1593503538000, 'updateTime': 1704338428000, 'event': '冰柏科技、博能股份、郁林科技等公司接连获投，赛道热度升温', 'eventNewsId': None, 'countCompany': 114, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 834, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'luouzhizao', 'name': '鲁欧智造', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'gudongkeji', 'name': '谷东科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'sanweijianmo', 'name': '智汇云舟', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704336703000, 'lastUpdateType': 101010, 'strLastUpdateType': '新收录公司', 'lastUpdateId': '1966220', 'lastUpdateCompany': {'id': 0, 'url': None, 'logo': None, 'name': '鲁欧智造', 'companyCode': 'luouzhizao', 'corpFullName': None, 'tagName': None, 'brief': None, 'fundingDate': None, 'roundName': None, 'companyFinancingAmount': None, 'companyInvestors': None, 'topicMessagePublishDate': None, 'companyDesc': None, 'contactNumber': None, 'contactEmail': None, 'establishDate': None, 'locationName': None, 'advantageTags': None, 'activeTags': None, 'activity': None, 'orgGroupNames': None, 'relatedInvestorId': 0, 'fundingVOListByInvestorId': None
+            }, 'lastUpdateNews': None
+        }, 'upperLevel1Tags': None
+    },
+    {'code': 'cbfeec12b2f040409c389b861508b9e2', 'name': '合成生物学', 'isNew': True, 'isHot': False, 'createTime': 1638263389000, 'updateTime': 1704339507000, 'event': '国家发改委发布的《“十四五”生物经济发展规划》提出，发展合成生物学技术，探索研发“人造蛋白”等新型食品，实现食品工业迭代升级，降低传统养殖业带来的环境资源压力。', 'eventNewsId': None, 'countCompany': 164, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 833, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'Z6IXLCFZ', 'name': '奥素科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'jiajialeshengwu', 'name': '佳嘉乐生物', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'weimingshiguangshengwu', 'name': '未名拾光', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704332648000, 'lastUpdateType': 101010, 'strLastUpdateType': '新收录公司', 'lastUpdateId': '2002404', 'lastUpdateCompany': {'id': 0, 'url': None, 'logo': None, 'name': '奥素科技', 'companyCode': 'Z6IXLCFZ', 'corpFullName': None, 'tagName': None, 'brief': None, 'fundingDate': None, 'roundName': None, 'companyFinancingAmount': None, 'companyInvestors': None, 'topicMessagePublishDate': None, 'companyDesc': None, 'contactNumber': None, 'contactEmail': None, 'establishDate': None, 'locationName': None, 'advantageTags': None, 'activeTags': None, 'activity': None, 'orgGroupNames': None, 'relatedInvestorId': 0, 'fundingVOListByInvestorId': None
+            }, 'lastUpdateNews': None
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '6a67cbc090a2405ca7b4c06778ea2307', 'name': 'MCU', 'isNew': True, 'isHot': False, 'createTime': 1648856125000, 'updateTime': 1704311249000, 'event': '芯钛科技、曦华科技、云潼科技等公司接连获投，赛道热度升温。', 'eventNewsId': None, 'countCompany': 139, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 832, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'lingdongweidian', 'name': '灵动微电子', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'XBKZAOTE', 'name': '大唐微电子', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'yuntongkeji79', 'name': '云潼科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1703764015000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '658d5ba69d4d9304a2b6e90d', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "658d5ba69d4d9304a2b6e90d",
+                "domain": null,
+                "link": "http://sc.stock.cnfol.com/ggzixun/20231228/30564183.shtml",
+                "date": 1703762826000,
+                "postId": null,
+                "createTime": 1703763614251,
+                "modifyTime": 1703763614251,
+                "modifyDateStr": "2023-12-28",
+                "title": "维科精密(301499.SZ)：主要向上汽英飞凌、中芯集成、蜂巢传动及时代电气等客户提供IGBT功率模块产品",
+                "brief": "格隆汇12月28日丨维科精密 301499 SZ 在投资者互动平台表示 公司主要向上汽英飞凌 中芯集成 蜂巢传动及时代电气等客户提供IGBT功率模块产品",
+                "processStatus": 1,
+                "type": 60010,
+                "source": 13938,
+                "best": null,
+                "companyIds": [
+                    2446832,
+                    215491,
+                    1367964
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    65,
+                    175747,
+                    309067
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '0976d0ea3cd74871aa9f7d5692730b27', 'name': '光刻胶', 'isNew': True, 'isHot': False, 'createTime': 1591068228000, 'updateTime': 1704263240000, 'event': '政策支持、疫情影响进出口贸易，光刻胶产业进入国产替代窗口期', 'eventNewsId': None, 'countCompany': 46, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 831, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'kehuaweidianzi', 'name': '科华微电子', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'aisenbandaoti', 'name': '艾森股份', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'suzhouruihong', 'name': '瑞红苏州', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704255109000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6593f623deb4714488d2563e', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6593f623deb4714488d2563e",
+                "domain": "金融界",
+                "link": "https://m.jrj.com.cn/madapter/stock/2024/01/02193638951148.shtml",
+                "date": 1704166578000,
+                "postId": null,
+                "createTime": 1704196223724,
+                "modifyTime": 1704253521580,
+                "modifyDateStr": "2024-01-03",
+                "title": "彤程新材：全资子公司拟收购科华微电子13.9740%的股权，交易完成后直接持股比例将达70.5319%",
+                "brief": "彤程新材：全资子公司拟收购科华微电子13.9740%的股权，交易完成后直接持股比例将达70.5319% 金融界AI电报 2024-01-02 19:36:04 金融界1月2日消息，彤程新材公告，其全资",
+                "processStatus": 1,
+                "type": 60001.0,
+                "source": 13901.0,
+                "best": null,
+                "companyIds": [
+                    400767
+                ],
+                "companyNews": "Y",
+                "investorIds": [
+                    20346.0
+                ],
+                "investorNews": "Y",
+                "features": [
+                    65.0,
+                    578349.0,
+                    810896.0,
+                    810897.0,
+                    578361.0
+                ],
+                "categories": [
+                    810896.0,
+                    810897.0,
+                    578349.0
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true,
+                "corporateIds": [
+                    397846
+                ]
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': 'acec71eebc6d43b2b004485591401304', 'name': 'CDMO', 'isNew': True, 'isHot': False, 'createTime': 1617865339000, 'updateTime': 1704338670000, 'event': '全球CDMO市场规模近1000亿美元，2017-2022年年化增速12.61%', 'eventNewsId': None, 'countCompany': 153, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 830, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'njpgshkjxgs', 'name': '浦光生物', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'MQEDJK07', 'name': '派真生物', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'A0WIS6FH', 'name': '维亚生物', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704326591000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6595f234deb4713b0f7f3645', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6595f234deb4713b0f7f3645",
+                "domain": "36氪",
+                "link": "https://36kr.com/p/2588966042270592",
+                "date": 1704325299000,
+                "postId": "850e9518aa9211ee8d2700163e307773",
+                "createTime": 1704326433750,
+                "modifyTime": 1704326433750,
+                "modifyDateStr": "2024-01-04",
+                "title": "澳斯康生物IPO被终止：曾拟募资30亿，高瓴与复星是股东",
+                "brief": "2021年12月，澳斯康曾宣布完成15亿元新一轮融资，由股东金石投资和鼎晖百孚领投。",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13020,
+                "best": "Y",
+                "companyIds": [
+                    623095
+                ],
+                "companyNews": "Y",
+                "investorIds": [
+                    275
+                ],
+                "investorNews": "Y",
+                "features": [
+                    290548,
+                    65,
+                    705
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': 'ef30681536114557a008a547d6bad522', 'name': '脑机接口', 'isNew': True, 'isHot': False, 'createTime': 1571813553000, 'updateTime': 1704307075000, 'event': '中国完成全球首例介入式脑机接口非人灵长类动物试验，赛道热度升温', 'eventNewsId': None, 'countCompany': 67, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 829, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'PSDIQ22I', 'name': '星愿智能', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'shhntzhnkj', 'name': '念通智能', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'ruimengbandaoti', 'name': '锐盟半导体', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704155411000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65934be3deb4713b0f7e9f4e', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65934be3deb4713b0f7e9f4e",
+                "domain": "36氪",
+                "link": "https://36kr.com/p/2584490409682313",
+                "date": 1704151702000,
+                "postId": "386d7e44a8fe11ee8d2700163e307773",
+                "createTime": 1704152718471,
+                "modifyTime": 1704152718471,
+                "modifyDateStr": "2024-01-02",
+                "title": "微软有的索尼也要有，PS Plus全平台订阅将至",
+                "brief": "相较游戏主机，PC和手机的市场环境显然完全不同。",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13020,
+                "best": "Y",
+                "companyIds": [
+                    1410
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    1713,
+                    1672,
+                    42
+                ],
+                "categories": [
+                    810897,
+                    578353
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': 'f77b93c34937426981cc45503c25f853', 'name': '聊天机器人', 'isNew': True, 'isHot': False, 'createTime': 1569481044000, 'updateTime': 1704132510000, 'event': '谷歌开放 AI 聊天机器人 Bard，聊天机器人赛道热度升温', 'eventNewsId': None, 'countCompany': 205, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 828, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': '6FIDV9TX', 'name': 'HRBrain', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'Anthropic', 'name': 'Anthropic', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'OXH3U7DP', 'name': 'Luzia', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1703907124000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '657a4e56deb4716f17caff87', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "657a4e56deb4716f17caff87",
+                "domain": "36氪",
+                "link": "https://36kr.com/newsflashes/2559870178155905",
+                "date": 1702514262874,
+                "postId": null,
+                "createTime": 1702515034024,
+                "modifyTime": 1703483456144,
+                "modifyDateStr": "2023-12-25",
+                "title": "谷歌为医疗保健推出新的人工智能模型MedLM",
+                "brief": "36氪快讯 谷歌周三宣布推出一套新的医疗保健专用人工智能模型MedLM，旨在帮助临床医生和研究人员进行复杂的研究、总结医患互动等。此举标志着谷歌将医疗保健行业人工智能工具货币化的最新尝试。MedLM套",
+                "processStatus": 1,
+                "type": 60008,
+                "source": 13020,
+                "best": null,
+                "companyIds": [
+                    28023
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    328,
+                    578361,
+                    42,
+                    115482
+                ],
+                "categories": [],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '3b879fe765ac9d0c353d1253f0f4f4eb', 'name': '区块链游戏', 'isNew': True, 'isHot': False, 'createTime': 1519956875000, 'updateTime': 1703952993000, 'event': '融资事件激增，赛道投资热度升温。', 'eventNewsId': None, 'countCompany': 472, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 827, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'MRNUZWKY', 'name': 'BLOCKSMITH', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'YBDUGF4X', 'name': 'Gacha Monsters', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'SLQRVTOC', 'name': 'Farcana', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1703554672000, 'lastUpdateType': 101010, 'strLastUpdateType': '新收录公司', 'lastUpdateId': '2449072', 'lastUpdateCompany': {'id': 0, 'url': None, 'logo': None, 'name': 'The NFT Gaming', 'companyCode': '0KRF2W88', 'corpFullName': None, 'tagName': None, 'brief': None, 'fundingDate': None, 'roundName': None, 'companyFinancingAmount': None, 'companyInvestors': None, 'topicMessagePublishDate': None, 'companyDesc': None, 'contactNumber': None, 'contactEmail': None, 'establishDate': None, 'locationName': None, 'advantageTags': None, 'activeTags': None, 'activity': None, 'orgGroupNames': None, 'relatedInvestorId': 0, 'fundingVOListByInvestorId': None
+            }, 'lastUpdateNews': None
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '71297569b5a7fd021b3491aba51f97a1', 'name': '靶向药物', 'isNew': True, 'isHot': False, 'createTime': 1531138878000, 'updateTime': 1704304441000, 'event': '国内肿瘤靶向药物规模不断提升，肿瘤治疗中靶向用药比例也不断扩大。近年来靶向抗肿瘤药物销售额保持增长态势，2017年样本医院靶向抗肿瘤药物销售额为57.11亿元，同比增长 22.10%，2012年至2017年CAGR为16%。靶向药物在肿瘤药物中的比例不断上升，2017年占比达到24.25%，并且未来该比例还将继续上升。', 'eventNewsId': None, 'countCompany': 279, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 826, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'tongyuankangyiyao', 'name': '同源康医药', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'O70WY58Q', 'name': '宁康瑞珠', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'AtavistikBio', 'name': 'Atavistik Bio', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704270360000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65950fb8fb8c0c9b1d27e9d8', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65950fb8fb8c0c9b1d27e9d8",
+                "domain": "36氪",
+                "link": "https://36kr.com/p/2587059515221633",
+                "date": 1704267518000,
+                "postId": null,
+                "createTime": 1704268543263,
+                "modifyTime": 1704268543263,
+                "modifyDateStr": "2024-01-03",
+                "title": "鼎龙科技、瑞成信息上市；同源康医药完成D轮融资；浙江公布首批雄鹰企业名单｜浙氪一周",
+                "brief": "本周精彩，尽在此氪。",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13951,
+                "best": null,
+                "companyIds": [
+                    1357539
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    290548,
+                    65,
+                    705
+                ],
+                "categories": [
+                    810897,
+                    578349
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '0987e37e885c4912862927b72dc420b0', 'name': '减肥药', 'isNew': True, 'isHot': False, 'createTime': 1697698972000, 'updateTime': 1704314124000, 'event': '马斯克还在推特（现X）上为减肥药“背书”，他称，“减肥药Ozempic影响了沃尔玛的食品销售这点令人震惊。', 'eventNewsId': None, 'countCompany': 65, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 825, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'ganliyaoye', 'name': '甘李药业', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'hbkjgf30', 'name': '万邦医药', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'tangjiyiliao', 'name': '糖吉医疗', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704255970000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6594d1b49d4d937746bdba8f', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6594d1b49d4d937746bdba8f",
+                "domain": null,
+                "link": "http://mp.cnfol.com/57306/article/1704250700-141206873.html",
+                "date": 1704250700000,
+                "postId": null,
+                "createTime": 1704252611423,
+                "modifyTime": 1704252611423,
+                "modifyDateStr": "2024-01-03",
+                "title": "2023年共有34款1类创新药获批，同比增长156%！港股创新药ETF（513120）早盘迅猛拉升，一度涨至1.28%，权重股药明生物领涨",
+                "brief": "截至10：43，港股创新药ETF（513120）早盘迅猛拉升，一度涨至1.28%，成交额达4.91亿元。市场交投活跃，成交额持续扩大。（图片来源：wind）港股创新药ETF（513120）前十大权重股中，药明生物领涨，信达生物跟涨。（图片来源：wind）截至1月2日，该基金份额超84.88亿份，最新规模增至66.06亿元。（图片来源：wind，截至2024.1.2）港股创新药ETF（513120）",
+                "processStatus": 1,
+                "type": 60010,
+                "source": 13937,
+                "best": null,
+                "companyIds": [
+                    12722
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    290548,
+                    65
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '8687c4c78f6e4053afe8f01911f1317c', 'name': '虚拟数字人', 'isNew': True, 'isHot': False, 'createTime': 1589854444000, 'updateTime': 1704307663000, 'event': 'GPT-4、百度文心等大模型发布，虚拟偶像、数字人领域或迎来新机遇。', 'eventNewsId': None, 'countCompany': 186, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 823, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': '7P04DAJY', 'name': '万木健康', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'YNYQKFFC', 'name': 'AnotherBall', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'Q6Y3Q5EZ', 'name': '灵犀深智', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704279894000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '659537c0deb4710992e64c24', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "659537c0deb4710992e64c24",
+                "domain": "中国证券网",
+                "link": "https://company.cnstock.com/company/scp_gsxw/202401/5171842.htm",
+                "date": 1704267904000,
+                "postId": null,
+                "createTime": 1704278729997,
+                "modifyTime": 1704278729997,
+                "modifyDateStr": "2024-01-03",
+                "title": "风语筑MR研究院正式成立 探索MR产品落地应用",
+                "brief": "上证报中国证券网讯（记者 罗茂林）1月3日，风语筑宣布成立MR研究院，计划开发VR/AR/MR通用的3D内容生产工具，可适配不同的开发平台和硬件设备。同时，基于业务和研发需求，公司计划将公司和VeeR旗下部分VR内容转换为MR适配版本。",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13880,
+                "best": null,
+                "companyIds": [
+                    297666
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    115482
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '1fcbffb9992e4022a80173724d1c09f5', 'name': '元宇宙', 'isNew': True, 'isHot': False, 'createTime': 1620803768000, 'updateTime': 1704308718000, 'event': 'AIGC爆火，推动元宇宙加速发展', 'eventNewsId': None, 'countCompany': 532, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 822, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'Q8B5AEJB', 'name': '歌锐科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'J7XY89AT', 'name': 'Carrieverse', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'luanshukeji', 'name': '孪数科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704165774000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65937d4c9d4d937158b498dd', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65937d4c9d4d937158b498dd",
+                "domain": null,
+                "link": "http://mp.cnfol.com/26675/article/1704164406-141205498.html",
+                "date": 1704164406000,
+                "postId": null,
+                "createTime": 1704165344322,
+                "modifyTime": 1704165344322,
+                "modifyDateStr": "2024-01-02",
+                "title": "开门红！文娱传媒ETF(516190)涨超1%，持仓股中文在线涨超8%",
+                "brief": "2024年首个交易日，A股传媒、影视板块开盘拉升。2024年1月2日截至9:35，文娱传媒ETF（516190）涨1.31%，持仓股中文在线领涨，涨超8%，三七互娱、上海电影、游族网络跟涨，涨超5%。国金证券认为短剧市场蓬勃发展中，看好制作能力较强或有IP储备的标的。从供给端看，微短剧数量在增多，监管越来越规范，预计成功发行的成本提高。从需求端看，微短剧需求较大，但只有少数能做到头部。当前微短剧需",
+                "processStatus": 1,
+                "type": 60010,
+                "source": 13937,
+                "best": null,
+                "companyIds": [
+                    309623,
+                    53229,
+                    170431
+                ],
+                "companyNews": "Y",
+                "investorIds": [
+                    9279
+                ],
+                "investorNews": "Y",
+                "features": [
+                    1713,
+                    65,
+                    42
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '963769c6dbb14a95a92116cf2e66ca72', 'name': '两轮电动车', 'isNew': True, 'isHot': False, 'createTime': 1646300550000, 'updateTime': 1703008793000, 'event': '绿源集团IPO，电斐科技获投，赛道热度升温', 'eventNewsId': None, 'countCompany': 108, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 820, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': '59QXGA8W', 'name': '特宙斯', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'shifangyundong', 'name': 'TENWAYS', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'BDR5RZ3D', 'name': '派电科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1702372735000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6577c0ebdeb4716f17ca9ff1', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6577c0ebdeb4716f17ca9ff1",
+                "domain": "36氪",
+                "link": "https://36kr.com/newsflashes/2557129953565575",
+                "date": 1702346987432,
+                "postId": null,
+                "createTime": 1702347920107,
+                "modifyTime": 1702347920107,
+                "modifyDateStr": "2023-12-12",
+                "title": "电助力自行车品牌TEZEUS完成千万元天使轮融资",
+                "brief": "36氪快讯 36氪获悉，近日，特宙斯科技（TEZEUS）完成千万元天使轮融资，本轮融资由领源科创领投，Fuju Capital跟投。TEZEUS通过自研中置电机与整车控制系统，创新性加入雷达安全技术来",
+                "processStatus": 1,
+                "type": 60008,
+                "source": 13020,
+                "best": "Y",
+                "companyIds": [
+                    2448509
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    65,
+                    599873,
+                    557285,
+                    578349,
+                    810897,
+                    578353,
+                    578361
+                ],
+                "categories": [
+                    810897,
+                    578349,
+                    578353
+                ],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '3be4d8e0ea18f9ab866f46eed6a49aad', 'name': '纳米材料', 'isNew': True, 'isHot': False, 'createTime': 1525661015000, 'updateTime': 1704219522000, 'event': '广纳珈源、万众一芯等接连获投，行业投资热度升温。', 'eventNewsId': None, 'countCompany': 306, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 819, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'ZZXN7C3R', 'name': '佳固士', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'ERG4HLUO', 'name': '锎巴科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'VSLWBRWT', 'name': 'Sweetch Energy', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704210170000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6594234fdeb4714488d26fc1', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6594234fdeb4714488d26fc1",
+                "domain": null,
+                "link": "http://news.10jqka.com.cn/20240102/c653733333.shtml",
+                "date": 1704178012000,
+                "postId": null,
+                "createTime": 1704207911140,
+                "modifyTime": 1704207911140,
+                "modifyDateStr": "2024-01-02",
+                "title": "今年扬州广陵市级重大项目总体数量和投资体量均创新高，一批重大项目开工",
+                "brief": "1月2日讯(通讯员广萱记者陈咏)元月2日，扬州广陵经济开发区暖意涌动，现场人员共同见证中科纳米新材料智能制造项目启动建设，全面吹响2024年广陵重大项目建设的奋进号角。 建成效果图 据介绍，今年广陵区",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13901,
+                "best": null,
+                "companyIds": [
+                    103814
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    309067,
+                    599873,
+                    604330
+                ],
+                "categories": [
+                    810897,
+                    578353
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '18b2e54990b64404a74b3e4d23c6a095', 'name': '预制菜', 'isNew': True, 'isHot': False, 'createTime': 1574921893000, 'updateTime': 1704307222000, 'event': '工信部消费品司提出：密切关注和推动食品工业的预制化发展，尝试使用更多的数字化手段，提升服务质量和效果。', 'eventNewsId': None, 'countCompany': 131, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 818, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'V8JAZ14E', 'name': '晓麦集团', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'MZTL1MTU', 'name': '中食民安', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': '39NX7U1J', 'name': '锅圈食汇', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704289913000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65955c249d4d937746bdc5e4', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65955c249d4d937746bdc5e4",
+                "domain": null,
+                "link": "http://mp.cnfol.com/53562/article/1704276016-141207602.html",
+                "date": 1704276016000,
+                "postId": null,
+                "createTime": 1704288014699,
+                "modifyTime": 1704288014699,
+                "modifyDateStr": "2024-01-03",
+                "title": " 元旦多家餐饮企业“开门红”：有奶茶店销量增超600%，哈尔滨海底捞门店客流翻番 ",
+                "brief": "红星资本局1月3日消息，2024年元旦，据文旅部数据，假期3天国内旅游出游1.35亿人次，同比增长155.3%；实现国内旅游收入797.3亿元，同比增长200.7%。节庆、文旅热也为餐饮行业带来客流高峰。资料图 图据IC photo红星资本局从海底捞（06862.HK）了解到，在冰雪游的带动下，哈尔滨、大连两地的海底捞客流较上个元旦假期翻了一番。元旦三天，海底捞全国门店接待顾客超过600万人次，",
+                "processStatus": 1,
+                "type": 60010,
+                "source": 13937,
+                "best": null,
+                "companyIds": [
+                    95765
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    107,
+                    2127
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '4c81c0776e9c46dbb41771ca549af42b', 'name': 'MLOps', 'isNew': True, 'isHot': False, 'createTime': 1679990545000, 'updateTime': 1704334771000, 'event': 'AIGC领域热度激增，MLOps作为人工智能研发运营工具，关注度飙升', 'eventNewsId': None, 'countCompany': 113, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 817, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'zhihuijiaotong', 'name': '科大国创', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'I6OR3RS2', 'name': '无问芯穹', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': '2MWRV4SA', 'name': '潞晨科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704334772000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65960d07deb4714488d422ce', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65960d07deb4714488d422ce",
+                "domain": "金融界",
+                "link": "https://m.jrj.com.cn/madapter/stock/2024/01/04085838971674.shtml",
+                "date": 1704301168000,
+                "postId": null,
+                "createTime": 1704333309496,
+                "modifyTime": 1704333309496,
+                "modifyDateStr": "2024-01-04",
+                "title": "荣盛石化获天风证券买入评级，拟收购沙特SASREF炼厂股权",
+                "brief": "荣盛石化获天风证券买入评级，拟收购沙特SASREF炼厂股权 金融界 2024-01-04 08:58:56 1月4日，荣盛石化获天风证券买入评级，近一个月荣盛石化获得6份研报关注。研报预计，荣盛石化拟",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13901,
+                "best": null,
+                "companyIds": [
+                    173197
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    65,
+                    42
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': 'e0664c3f8bcd4fef8b293a1614621b26', 'name': 'CRO', 'isNew': True, 'isHot': False, 'createTime': 1557902199000, 'updateTime': 1704337402000, 'event': '截至2021年，全球生物医药CRO市场规模达到627.5亿美元，预计到2023年将达到952亿美元，CRO行业迎来巨大的发展机遇。', 'eventNewsId': None, 'countCompany': 270, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 815, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': '2Z5LUE71', 'name': '领业医药', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'bonaxiya', 'name': '博纳西亚', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'JKL64VMY', 'name': '海枫生物', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704329316000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '6595f234deb4713b0f7f3645', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "6595f234deb4713b0f7f3645",
+                "domain": "36氪",
+                "link": "https://36kr.com/p/2588966042270592",
+                "date": 1704325299000,
+                "postId": "850e9518aa9211ee8d2700163e307773",
+                "createTime": 1704326433750,
+                "modifyTime": 1704326433750,
+                "modifyDateStr": "2024-01-04",
+                "title": "澳斯康生物IPO被终止：曾拟募资30亿，高瓴与复星是股东",
+                "brief": "2021年12月，澳斯康曾宣布完成15亿元新一轮融资，由股东金石投资和鼎晖百孚领投。",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13020,
+                "best": "Y",
+                "companyIds": [
+                    623095
+                ],
+                "companyNews": "Y",
+                "investorIds": [
+                    275
+                ],
+                "investorNews": "Y",
+                "features": [
+                    290548,
+                    65,
+                    705
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '368edf1b0679435f83aadd9c3aef0c28', 'name': '边缘计算', 'isNew': True, 'isHot': False, 'createTime': 1552529619000, 'updateTime': 1704306212000, 'event': 'AI算力需求愈发高涨，边缘算力有望成为AI算力的重要组成部分。', 'eventNewsId': None, 'countCompany': 146, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 814, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'gudongkeji', 'name': '谷东科技', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'CS9ZWSIX', 'name': 'Armada', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'Cthingsco', 'name': 'Cthings.co', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704155295000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '659352b78198d66e2cde70e7', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "659352b78198d66e2cde70e7",
+                "domain": null,
+                "link": "http://mp.weixin.qq.com/s?src\\u003d11\\u0026timestamp\\u003d1704153744\\u0026ver\\u003d4993\\u0026signature\\u003dVekTKHX*eukocqImOqQYAnks4i4VmxD3fa7*Zu2WSVVquS9JfEqklWNKe9SW7Xaq*FWq9V5RltcbiTCevTXNM3*QIvwF18et-sAuBybDK1OYivKHwb1csJMvu4a*kllE\\u0026new\\u003d1",
+                "date": 1704092175000,
+                "postId": null,
+                "createTime": 1704154525672,
+                "modifyTime": 1704154525672,
+                "modifyDateStr": "2024-01-02",
+                "title": "江行智能 获1.5亿元Pre-B轮融资 | 投资家每日融资",
+                "brief": "",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13847,
+                "best": null,
+                "companyIds": [
+                    485130
+                ],
+                "companyNews": "Y",
+                "investorIds": [
+                    9602
+                ],
+                "investorNews": "Y",
+                "features": [
+                    42,
+                    599873,
+                    328
+                ],
+                "categories": [
+                    810897,
+                    578349,
+                    578353
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '03f75cfe971a432c8a697e72abe84a75', 'name': 'MOSFET', 'isNew': True, 'isHot': False, 'createTime': 1655193410000, 'updateTime': 1704311640000, 'event': '积塔半导体、世纪金光等公司接连获投，赛道热度升温', 'eventNewsId': None, 'countCompany': 99, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 813, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': 'zhongruihongxin62', 'name': '中瑞宏芯', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'xizhenzhicheng', 'name': '清纯半导体', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'taiketianrun', 'name': '泰科天润', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1703907763000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65841ebddeb4716f17cc6a94', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65841ebddeb4716f17cc6a94",
+                "domain": "36氪",
+                "link": "https://36kr.com/newsflashes/2570409591580291",
+                "date": 1703157437577,
+                "postId": null,
+                "createTime": 1703158201807,
+                "modifyTime": 1703493049517,
+                "modifyDateStr": "2023-12-25",
+                "title": "罗姆与东芝就合作制造功率器件达成协议",
+                "brief": "36氪快讯 12月21日消息，罗姆株式会社和东芝电子元件及存储装置株式会社在功率器件的制造和增产方面的一项合作计划已得到日本经济产业省的认可。罗姆和东芝将分别对碳化硅（SiC）和硅（Si）功率器件进行",
+                "processStatus": 1,
+                "type": 60008,
+                "source": 13020,
+                "best": null,
+                "companyIds": [
+                    558659,
+                    1796191
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    599873,
+                    578361,
+                    604330
+                ],
+                "categories": [],
+                "leaderNames2": null,
+                "fund_extract": false
+            }'
+        }, 'upperLevel1Tags': None
+    },
+    {'code': '5cfc9f50f8094e7b8557c1426d7d118f', 'name': '锂电负极', 'isNew': True, 'isHot': False, 'createTime': 1595497635000, 'updateTime': 1704133364000, 'event': '立探新能源、物科金硅、新泰和接连获投，锂电负极热度升温', 'eventNewsId': None, 'countCompany': 57, 'tagId': 0, 'desc': None, 'firstLetter': None, 'id': 0, 'sort': 812, 'count': 0, 'companyVOs': [
+            {'id': 0, 'corporateId': 0, 'code': '8W4MSZIH', 'name': '翔福新能源', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'ET90OLH3', 'name': '璞泰来', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            },
+            {'id': 0, 'corporateId': 0, 'code': 'ltmxddchclkjxgs', 'name': '天目先导', 'fullName': None, 'brief': None, 'desc': None, 'logo': None, 'website': None, 'round': 0, 'roundName': None, 'roundDesc': None, 'locationName': None, 'tagName': None, 'enTagName': None, 'establishDate': 0, 'companyStatus': None, 'statusDate': 0, 'funding': None, 'visited': False, 'tracked': False, 'otherMap': None, 'isLike': False, 'likeCnt': 0, 'commentCnt': 0, 'visitCnt': 0, 'trackedByPerson': False, 'hasGongShangInfoOnly': False, 'tagNameList': None, 'tagEnNameList': None, 'fundingList': None, 'regionName': None, 'provinceName': None, 'cityName': None, 'districtName': None, 'excellentCompany': False
+            }
+        ], 'lastUpdateVO': {'lastUpdateTime': 1704072107000, 'lastUpdateType': 101020, 'strLastUpdateType': '新收录新闻', 'lastUpdateId': '65920e32deb4714488d070b8', 'lastUpdateCompany': None, 'lastUpdateNews': '{
+                "_id": "65920e32deb4714488d070b8",
+                "domain": "金融界",
+                "link": "https://m.jrj.com.cn/madapter/stock/2023/12/28080238903850.shtml",
+                "date": 1703696302000,
+                "postId": null,
+                "createTime": 1704071457410,
+                "modifyTime": 1704071457410,
+                "modifyDateStr": "2024-01-01",
+                "title": "杉杉股份获融资买入0.29亿元，近三日累计买入1.07亿元",
+                "brief": "杉杉股份获融资买入0.29亿元，近三日累计买入1.07亿元 金融界 2023-12-28 08:02:56 12月27日，沪深两融数据显示，杉杉股份获融资买入额0.29亿元，居两市第158位，当日融资",
+                "processStatus": 1,
+                "type": 60001,
+                "source": 13901,
+                "best": null,
+                "companyIds": [
+                    96012
+                ],
+                "companyNews": "Y",
+                "investorIds": [],
+                "investorNews": "N",
+                "features": [
+                    65
+                ],
+                "categories": [
+                    810897
+                ],
+                "leaderNames2": null,
+                "fund_extract": false,
+                "media_tag_processed": true
+            }'
+        }, 'upperLevel1Tags': None
+    }
+]
