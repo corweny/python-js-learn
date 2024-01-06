@@ -1,0 +1,624 @@
+{'code': 0, 'ts': 1704522536303, 'start_ts': 1704522536109, 'traceid': '596c538d6626b091', 'req_1': {'code': 0, 'data': {'body': {'album': {'list': []
+                }, 'gedantip': {'tab': 0, 'tip': ''
+                }, 'mv': {'list': []
+                }, 'qc': [], 'singer': {'list': []
+                }, 'song': {'list': [
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 14311, 'mid': '002MAeob3zLXwZ', 'name': 'J III MP3 Player', 'pmid': '002MAeob3zLXwZ_2', 'subtitle': '《头文字D》电影插曲', 'time_public': '', 'title': 'J III MP3 Player'
+                            }, 'bpm': 66, 'content': '', 'desc': '《头文字D》电影插曲', 'desc_hilight': '《头文字D》电影插曲', 'docid': '7898300423480694200', 'eq': 2, 'es': '', 'file': {'b_30s': 7936, 'e_30s': 67936, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '004cZvLj1qDq4A', 'size_128mp3': 4732355, 'size_192aac': 7159409, 'size_192ogg': 6667274, 'size_24aac': 0, 'size_320mp3': 11830556, 'size_360ra': [], 'size_48aac': 1798584, 'size_96aac': 3601044, 'size_96ogg': 3329766, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 35323866, 'size_hires': 0, 'size_new': [
+                                    213834805,
+                                    34612975,
+                                    86746377,
+                                    11442227,
+                                    0,
+                                    23755477
+                                ], 'size_try': 960887, 'try_begin': 91454, 'try_end': 119759, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 60671, 'mid': '0024bjiL2aocxT', 'name': '十一月的萧邦', 'pmid': '0024bjiL2aocxT_3', 'subtitle': '《头文字D》电影插曲', 'time_public': '', 'title': '十一月的萧邦'
+                                    }, 'bpm': 66, 'content': '', 'desc': '《头文字D》电影插曲', 'desc_hilight': '《头文字D》电影插曲', 'docid': '14375382913005869639', 'eq': 4, 'es': '', 'file': {'b_30s': 91440, 'e_30s': 151440, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003AvxVi1zXzBO', 'size_128mp3': 4732335, 'size_192aac': 7159428, 'size_192ogg': 6667109, 'size_24aac': 0, 'size_320mp3': 11830536, 'size_360ra': [], 'size_48aac': 1798557, 'size_96aac': 3600972, 'size_96ogg': 3329900, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 35323866, 'size_hires': 0, 'size_new': [
+                                            213837556,
+                                            34611717,
+                                            86747922,
+                                            11442230,
+                                            0,
+                                            23755477
+                                        ], 'size_try': 960887, 'try_begin': 91440, 'try_end': 119760, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 718478, 'index_album': 12, 'index_cd': 0, 'interval': 295, 'isonly': 0, 'ksong': {'id': 8590, 'mid': '001uUdCh0iURd6'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003cfYDz2afFv1', 'mv': {'id': 55240, 'name': '', 'title': '', 'vid': 'm00135c6uxe', 'vt': 0
+                                    }, 'name': '一路向北', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 1024, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '《头文字D》电影插曲', 'tag': 0, 'tid': 0, 'time_public': '2005-11-01', 'title': '一路向北', 'title_hilight': '一路向北', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        -9.562923431396484,
+                                        0.9999690055847168,
+                                        3.2684121131896973
+                                    ], 'vi': [
+                                        2317
+                                    ], 'volume': {'gain': -9.67300033569336, 'lra': 3.2239999771118164, 'peak': 1
+                                    }, 'vs': ['062goiYb0JK0BO', '', '', '0033uokl11iylu', '002fqv4O43qVpp', '', '', '', '', '003cGEHe2fbD7f'
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 786432
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '11194652529872259319', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '002nJcIZ1RzfNr', 'size_128mp3': 4709331, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 1777132, 'size_96aac': 3561453, 'size_96ogg': 3159439, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            28593741,
+                                            72947005,
+                                            0,
+                                            0,
+                                            18061958
+                                        ], 'size_try': 0, 'try_begin': 75926, 'try_end': 133680, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 324085235, 'index_album': -31073, 'index_cd': 0, 'interval': 294, 'isonly': 0, 'ksong': {'id': 96443594, 'mid': '001KE4ia4OL1h9'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0026x7gE0ATieA', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '一路向北 (白)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '一路向北 (白)', 'title_hilight': '一路向北 (白)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -2.572999954223633, 'lra': 3.4719998836517334, 'peak': 0.9789999723434448
+                                    }, 'vs': ['', '000rmss626IIDm', '', '', '000DrANL4RJOfl', '', '', '', '', '0012wfkV2j3OCQ'
+                                    ]
+                                }
+                            ], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 5105986, 'index_album': 2, 'index_cd': 0, 'interval': 295, 'isonly': 0, 'ksong': {'id': 8590, 'mid': '001uUdCh0iURd6'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '001xd0HI0X9GNq', 'mv': {'id': 55240, 'name': '', 'title': '', 'vid': 'm00135c6uxe', 'vt': 0
+                            }, 'name': '一路向北', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '《头文字D》电影插曲', 'tag': 11, 'tid': 0, 'time_public': '2005-06-24', 'title': '一路向北', 'title_hilight': '一路向北', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -9.562923431396484,
+                                0.9999690055847168,
+                                3.2684121131896973
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -9.67300033569336, 'lra': 3.2239999771118164, 'peak': 1
+                            }, 'vs': ['06224SUq4c4kJu', '', '', '001grjjH31UaRt', '003ETiST0U3g9m', '', '', '', '', '001Tgmey2iC0s7'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 8220, 'mid': '000MkMni19ClKG', 'name': '叶惠美', 'pmid': '000MkMni19ClKG_4', 'subtitle': '', 'time_public': '', 'title': '叶惠美'
+                            }, 'bpm': 68, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '4660176279196411288', 'eq': 2, 'es': '', 'file': {'b_30s': 84339, 'e_30s': 144339, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '002202B43Cq4V4', 'size_128mp3': 4317292, 'size_192aac': 6528081, 'size_192ogg': 5864688, 'size_24aac': 0, 'size_320mp3': 10792516, 'size_360ra': [], 'size_48aac': 1644265, 'size_96aac': 3291622, 'size_96ogg': 2929888, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 31430142, 'size_hires': 0, 'size_new': [
+                                    197834196,
+                                    30683948,
+                                    79277536,
+                                    10287847,
+                                    0,
+                                    23054230
+                                ], 'size_try': 960887, 'try_begin': 84339, 'try_end': 142856, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 97773, 'index_album': 3, 'index_cd': 0, 'interval': 269, 'isonly': 0, 'ksong': {'id': 8606, 'mid': '000oBPpd23GbIo'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0039MnYb0qxYhV', 'mv': {'id': 293791, 'name': '', 'title': '', 'vid': 'w0026q7f01a', 'vt': 0
+                            }, 'name': '晴天', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 2114560, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2003-07-31', 'title': '晴天', 'title_hilight': '晴天', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.369566917419434,
+                                0.9999690055847168,
+                                3.808103084564209
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.501999855041504, 'lra': 3.8350000381469727, 'peak': 1
+                            }, 'vs': ['064dfdIM38rSZY', '', '', '001ZoIvO3uxIgq', '001OeNqc2n1UZO', '', '', '', '', '000T59Qg1LSXf1'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 36062, 'mid': '002Neh8l0uciQZ', 'name': '魔杰座', 'pmid': '002Neh8l0uciQZ_1', 'subtitle': '', 'time_public': '', 'title': '魔杰座'
+                            }, 'bpm': 75, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '9127442077596591272', 'eq': 2, 'es': '', 'file': {'b_30s': 76592, 'e_30s': 136592, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003VLsik0ztbIb', 'size_128mp3': 4064429, 'size_192aac': 6133907, 'size_192ogg': 5544577, 'size_24aac': 0, 'size_320mp3': 10160781, 'size_360ra': [], 'size_48aac': 1537863, 'size_96aac': 3086894, 'size_96ogg': 2845150, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 28309022, 'size_hires': 0, 'size_new': [
+                                    183109116,
+                                    28087546,
+                                    72395840,
+                                    9886068,
+                                    0,
+                                    21677093
+                                ], 'size_try': 960887, 'try_begin': 76592, 'try_end': 102199, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 449201, 'index_album': 7, 'index_cd': 0, 'interval': 253, 'isonly': 0, 'ksong': {'id': 2818082, 'mid': '003gd3xv2ihNQs'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '00128N3r2SYKMF', 'mv': {'id': 57367, 'name': '', 'title': '', 'vid': 'z00134ypgls', 'vt': 0
+                            }, 'name': '兰亭序', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2008-10-15', 'title': '兰亭序', 'title_hilight': '兰亭序', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.6383562088012695,
+                                0.9999690055847168,
+                                5.22528076171875
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.834000110626221, 'lra': 5.238999843597412, 'peak': 1
+                            }, 'vs': ['061pg47l18rceO', '', '', '003V5H7M3GK4Dh', '000n6WC10a2Gs2', '', '', '', '', '000D99MN4DSx9Y'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 36062, 'mid': '002Neh8l0uciQZ', 'name': '魔杰座', 'pmid': '002Neh8l0uciQZ_1', 'subtitle': '', 'time_public': '', 'title': '魔杰座'
+                            }, 'bpm': 82, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '2257006635702513351', 'eq': 2, 'es': '', 'file': {'b_30s': 53951, 'e_30s': 113951, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '0020wJDo3cx0j3', 'size_128mp3': 3576668, 'size_192aac': 5431599, 'size_192ogg': 5136737, 'size_24aac': 0, 'size_320mp3': 8941053, 'size_360ra': [], 'size_48aac': 1370511, 'size_96aac': 2743154, 'size_96ogg': 2532271, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 26012257, 'size_hires': 0, 'size_new': [
+                                    164019561,
+                                    25308473,
+                                    65795538,
+                                    8990532,
+                                    0,
+                                    19518382
+                                ], 'size_try': 960887, 'try_begin': 53951, 'try_end': 77968, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 453897, 'mid': '001cRVkW4PidI9', 'name': '巨星金曲', 'pmid': '001cRVkW4PidI9_1', 'subtitle': '', 'time_public': '', 'title': '巨星金曲'
+                                    }, 'bpm': 82, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '442686623244022034', 'eq': 2, 'es': '', 'file': {'b_30s': 6944, 'e_30s': 66944, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '000Q61tj1jfvIT', 'size_128mp3': 3541980, 'size_192aac': 5377944, 'size_192ogg': 5062077, 'size_24aac': 0, 'size_320mp3': 8854296, 'size_360ra': [], 'size_48aac': 1354350, 'size_96aac': 2708400, 'size_96ogg': 2508778, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 25634192, 'size_hires': 0, 'size_new': [
+                                            162229272,
+                                            25786051,
+                                            65499440,
+                                            8834424,
+                                            0,
+                                            19186670
+                                        ], 'size_try': 960887, 'try_begin': 53863, 'try_end': 78348, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 5159470, 'index_album': 1, 'index_cd': 0, 'interval': 221, 'isonly': 0, 'ksong': {'id': 8613, 'mid': '001CuwWs1IxnA3'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '004FetLy2zme0O', 'mv': {'id': 57370, 'name': '', 'title': '', 'vid': 'l0013kgn1be', 'vt': 0
+                                    }, 'name': '稻香', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 1024, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '2014-01-13', 'title': '稻香', 'title_hilight': '稻香', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        -7.907495021820068,
+                                        0.9999690055847168,
+                                        6.756748199462891
+                                    ], 'vi': [
+                                        2317
+                                    ], 'volume': {'gain': -8.592000007629395, 'lra': 6.716000080108643, 'peak': 1
+                                    }, 'vs': ['062FsYAX08yOaO', '', '', '002AmjGK47RoWQ', '002rJI1C2wD1bI', '', '', '', '', '001O24PY3K60PG'
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 524288
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '13787282880276598198', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003GhfcZ1UhLMZ', 'size_128mp3': 3490584, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 1329434, 'size_96aac': 2664779, 'size_96ogg': 2314037, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            14367017
+                                        ], 'size_try': 0, 'try_begin': 62724, 'try_end': 85572, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 434961579, 'index_album': -31073, 'index_cd': 0, 'interval': 218, 'isonly': 0, 'ksong': {'id': 95987836, 'mid': '0019VZ6b14Y2w9'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003GhfcZ1UhLMZ', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '稻香 (2022周杰伦线上歌友会现场)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '稻香 (2022周杰伦线上歌友会现场)', 'title_hilight': '稻香 (2022<em>周杰伦</em>线上歌友会现场)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -7.061999797821045, 'lra': 7.872000217437744, 'peak': 1
+                                    }, 'vs': ['', '003Ftqze4ZipmY', '', '', '', '', '', '', '', '002SMVt44J7XU8'
+                                    ]
+                                }
+                            ], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 449205, 'index_album': 11, 'index_cd': 0, 'interval': 223, 'isonly': 0, 'ksong': {'id': 8613, 'mid': '001CuwWs1IxnA3'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003aAYrm3GE0Ac', 'mv': {'id': 57370, 'name': '', 'title': '', 'vid': 'l0013kgn1be', 'vt': 0
+                            }, 'name': '稻香', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2008-10-15', 'title': '稻香', 'title_hilight': '稻香', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.909090042114258,
+                                0.9999690055847168,
+                                6.768191814422607
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -8.619999885559082, 'lra': 6.743000030517578, 'peak': 1
+                            }, 'vs': ['0643ANK71H36gh', '', '', '003W517f0hoSsc', '003ZwfKN4Y2ZZm', '', '', '', '', '0033Fa3f1c7MJQ'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 20612, 'mid': '003DFRzD192KKD', 'name': '七里香', 'pmid': '003DFRzD192KKD_1', 'subtitle': '', 'time_public': '', 'title': '七里香'
+                            }, 'bpm': 71, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '16059664576364176184', 'eq': 0, 'es': '', 'file': {'b_30s': 80683, 'e_30s': 140683, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '0012Ez0a1tFcOI', 'size_128mp3': 4788294, 'size_192aac': 7214942, 'size_192ogg': 7078399, 'size_24aac': 0, 'size_320mp3': 11970297, 'size_360ra': [], 'size_48aac': 1807402, 'size_96aac': 3636813, 'size_96ogg': 3416364, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 35845646, 'size_hires': 0, 'size_new': [
+                                    224731059,
+                                    34566014,
+                                    87827576,
+                                    11993357,
+                                    0,
+                                    24726502
+                                ], 'size_try': 960887, 'try_begin': 80683, 'try_end': 135203, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 302135, 'mid': '000Ed3LN0XBI6R', 'name': '心情出口', 'pmid': '000Ed3LN0XBI6R_1', 'subtitle': '', 'time_public': '', 'title': '心情出口'
+                                    }, 'bpm': 71, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '10557495959338852722', 'eq': 4, 'es': '', 'file': {'b_30s': 80747, 'e_30s': 140747, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003oHWJb2MAyS8', 'size_128mp3': 4780395, 'size_192aac': 7193471, 'size_192ogg': 7331148, 'size_24aac': 0, 'size_320mp3': 11949952, 'size_360ra': [], 'size_48aac': 1808973, 'size_96aac': 3637795, 'size_96ogg': 3525870, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 37060753, 'size_hires': 0, 'size_new': [
+                                            226158338,
+                                            36439677,
+                                            91253382,
+                                            12343758,
+                                            0,
+                                            25112157
+                                        ], 'size_try': 960887, 'try_begin': 80747, 'try_end': 135231, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 106697280, 'index_album': 27, 'index_cd': 0, 'interval': 298, 'isonly': 0, 'ksong': {'id': 10111, 'mid': '000sS1OH2RwHqK'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0003wmXG3bMwFN', 'mv': {'id': 55200, 'name': '', 'title': '', 'vid': 'k0013x8ao6z', 'vt': 0
+                                    }, 'name': '七里香', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 1024, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '2009-11-27', 'title': '七里香', 'title_hilight': '七里香', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        -8.466371536254883,
+                                        0.9999690055847168,
+                                        10.172962188720703
+                                    ], 'vi': [
+                                        2317
+                                    ], 'volume': {'gain': -8.640999794006348, 'lra': 10.125, 'peak': 1
+                                    }, 'vs': ['062zw4Ts4fy54w', '', '', '003ujQbB1kTnhl', '000whKlt1kwE5N', '', '', '', '', '004DNFLJ1ZtqvL'
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12992510, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '329264704046135689', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 60000, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003lCLcf2JHseu', 'size_128mp3': 2391339, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 911418, 'size_96aac': 1825647, 'size_96ogg': 1407834, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ], 'size_try': 960887, 'try_begin': 55343, 'try_end': 93397, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 403666629, 'index_album': 0, 'index_cd': 0, 'interval': 149, 'isonly': 0, 'ksong': {'id': 75431394, 'mid': '003z1Ivd2Fu15I'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003lCLcf2JHseu', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '七里香 (现场钢琴弹唱版)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '七里香 (现场钢琴弹唱版)', 'title_hilight': '七里香 (现场钢琴弹唱版)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -2.7249999046325684, 'lra': 8.763999938964844, 'peak': 0.8379999995231628
+                                    }, 'vs': ['064GXOQA3SrbLH', '', '', '', '', '', '', '', '', ''
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 786432
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '187973505002972116', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '001iXWKv1YeNPf', 'size_128mp3': 1097333, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 423600, 'size_96aac': 850050, 'size_96ogg': 744657, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            7324824,
+                                            17921064,
+                                            0,
+                                            0,
+                                            4537483
+                                        ], 'size_try': 0, 'try_begin': 0, 'try_end': 0, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 345541669, 'index_album': -31073, 'index_cd': 0, 'interval': 68, 'isonly': 0, 'ksong': {'id': 96458983, 'mid': '0005Y0kD1F4QmK'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0035145B3407IK', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '七里香 (节奏吉他版)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '七里香 (节奏吉他版)', 'title_hilight': '七里香 (节奏吉他版)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -7.486000061035156, 'lra': 6.704999923706055, 'peak': 0.9869999885559082
+                                    }, 'vs': ['', '002PV7wn3HkeV9', '', '', '003Lkpow00hZvI', '', '', '', '', '000jQOEM0mzfPC'
+                                    ]
+                                }
+                            ], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 102065756, 'index_album': 2, 'index_cd': 0, 'interval': 299, 'isonly': 0, 'ksong': {'id': 10111, 'mid': '000sS1OH2RwHqK'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '004Z8Ihr0JIu5s', 'mv': {'id': 55200, 'name': '', 'title': '', 'vid': 'k0013x8ao6z', 'vt': 0
+                            }, 'name': '七里香', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2004-08-03', 'title': '七里香', 'title_hilight': '七里香', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -9.146753311157227,
+                                0.9999690055847168,
+                                7.311158180236816
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -9.277000427246094, 'lra': 7.302000045776367, 'peak': 1
+                            }, 'vs': ['0609Vscd3MnP73', '', '', '004YvEWz2NIZnx', '0030rlgF1kOm68', '', '', '', '', '001KDsE2183RzZ'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 2, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 44806901, 'mid': '001ln9YB420a7b', 'name': '圣诞星 (feat. 杨瑞代)', 'pmid': '001ln9YB420a7b_1', 'subtitle': '', 'time_public': '', 'title': '圣诞星 (feat. 杨瑞代)'
+                            }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '3866532244074468031', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 60000, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '0016aXcd24qSC8', 'size_128mp3': 2925080, 'size_192aac': 4367796, 'size_192ogg': 4184261, 'size_24aac': 0, 'size_320mp3': 7312398, 'size_360ra': [], 'size_48aac': 1102644, 'size_96aac': 2205017, 'size_96ogg': 2154246, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 36928243, 'size_hires': 0, 'size_new': [
+                                    122251976,
+                                    18936705,
+                                    47300574,
+                                    7391622,
+                                    0,
+                                    16011827
+                                ], 'size_try': 960887, 'try_begin': 59108, 'try_end': 88198, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 457240977, 'index_album': 1, 'index_cd': 0, 'interval': 182, 'isonly': 0, 'ksong': {'id': 108946203, 'mid': '003mbmlh1YCVZm'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0016aXcd24qSC8', 'mv': {'id': 2122792, 'name': '', 'title': '', 'vid': '003HjRs318mRL2', 'vt': 0
+                            }, 'name': '圣诞星 (feat. 杨瑞代)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2023-12-22', 'title': '圣诞星 (feat. 杨瑞代)', 'title_hilight': '圣诞星 (feat. 杨瑞代)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.451980113983154,
+                                0.9999690055847168,
+                                13.390766143798828
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.5920000076293945, 'lra': 13.376999855041504, 'peak': 1
+                            }, 'vs': ['0640pBtN0etKNM', '', '', '0033lirD3TdT3i', '0004t30x3j6mBX', '', '', '', '', '000UF7kz4Q5m9o'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 36062, 'mid': '002Neh8l0uciQZ', 'name': '魔杰座', 'pmid': '002Neh8l0uciQZ_1', 'subtitle': '', 'time_public': '', 'title': '魔杰座'
+                            }, 'bpm': 58, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '16234289589721265517', 'eq': 2, 'es': '', 'file': {'b_30s': 72998, 'e_30s': 132998, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '001a8tgu4DggDy', 'size_128mp3': 4108738, 'size_192aac': 6214471, 'size_192ogg': 5383093, 'size_24aac': 0, 'size_320mp3': 10271547, 'size_360ra': [], 'size_48aac': 1559029, 'size_96aac': 3131181, 'size_96ogg': 2788393, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 27086130, 'size_hires': 0, 'size_new': [
+                                    179921560,
+                                    26870835,
+                                    70776632,
+                                    9512654,
+                                    0,
+                                    20594214
+                                ], 'size_try': 960887, 'try_begin': 72998, 'try_end': 104743, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 449200, 'index_album': 6, 'index_cd': 0, 'interval': 256, 'isonly': 0, 'ksong': {'id': 80, 'mid': '000hkufx1KvTu0'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0042QMDR1VzSsx', 'mv': {'id': 202152, 'name': '', 'title': '', 'vid': 'r0012mpm057', 'vt': 0
+                            }, 'name': '说好的幸福呢', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2008-10-15', 'title': '说好的幸福呢', 'title_hilight': '说好的幸福呢', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.135910987854004,
+                                0.9999690055847168,
+                                10.176739692687988
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.169000148773193, 'lra': 10.166999816894531, 'peak': 1
+                            }, 'vs': ['0635q1by35e8gR', '', '', '001LkTVQ0azfdd', '003w7nO71XkaYO', '', '', '', '', '0010ZQmx4JLSqS'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 194021, 'mid': '003Ow85E3pnoqi', 'name': '十二新作', 'pmid': '003Ow85E3pnoqi_1', 'subtitle': '', 'time_public': '', 'title': '十二新作'
+                            }, 'bpm': 56, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '11625195620184702238', 'eq': 2, 'es': '', 'file': {'b_30s': 16864, 'e_30s': 76864, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '001mxHU44PEhTP', 'size_128mp3': 4167249, 'size_192aac': 6316475, 'size_192ogg': 5687035, 'size_24aac': 0, 'size_320mp3': 10417329, 'size_360ra': [], 'size_48aac': 1580446, 'size_96aac': 3185113, 'size_96ogg': 2875122, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 27658991, 'size_hires': 0, 'size_new': [
+                                    182249718,
+                                    27083002,
+                                    68777434,
+                                    9711009,
+                                    0,
+                                    19671205
+                                ], 'size_try': 960887, 'try_begin': 68261, 'try_end': 102074, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 3585884, 'index_album': 4, 'index_cd': 0, 'interval': 260, 'isonly': 0, 'ksong': {'id': 16, 'mid': '004SRQ0w3ULBMq'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '000oW8J53xPhZA', 'mv': {'id': 178381, 'name': '', 'title': '', 'vid': 'o00117sxevp', 'vt': 0
+                            }, 'name': '明明就', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2012-12-28', 'title': '明明就', 'title_hilight': '明明就', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -7.289978981018066,
+                                0.9999690055847168,
+                                8.881183624267578
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.235000133514404, 'lra': 8.87600040435791, 'peak': 1
+                            }, 'vs': ['061DphhT3QLC6P', '', '', '002iavLD4FF1Wn', '004e9tFb4NsA5t', '', '', '', '', '002CVOji4RBAee'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 33021, 'mid': '002eFUFm2XYZ7z', 'name': '我很忙', 'pmid': '002eFUFm2XYZ7z_2', 'subtitle': '', 'time_public': '', 'title': '我很忙'
+                            }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '4953153690890266244', 'eq': 2, 'es': '', 'file': {'b_30s': 56949, 'e_30s': 116949, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '0015zR8B3gjJLl', 'size_128mp3': 3830789, 'size_192aac': 5795439, 'size_192ogg': 5414761, 'size_24aac': 0, 'size_320mp3': 9576656, 'size_360ra': [], 'size_48aac': 1452598, 'size_96aac': 2919222, 'size_96ogg': 2700910, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 26170419, 'size_hires': 0, 'size_new': [
+                                    173109772,
+                                    25318522,
+                                    66042899,
+                                    9522900,
+                                    0,
+                                    20097693
+                                ], 'size_try': 960887, 'try_begin': 56949, 'try_end': 91395, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 423011, 'mid': '002GJDhP0ZluDv', 'name': 'K情歌10', 'pmid': '002GJDhP0ZluDv_1', 'subtitle': '', 'time_public': '', 'title': 'K情歌10'
+                                    }, 'bpm': 54, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '11254040215489699229', 'eq': 2, 'es': '', 'file': {'b_30s': 57055, 'e_30s': 117055, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '0017Fph21OacxP', 'size_128mp3': 3833301, 'size_192aac': 5799562, 'size_192ogg': 5428956, 'size_24aac': 0, 'size_320mp3': 9582957, 'size_360ra': [], 'size_48aac': 1453857, 'size_96aac': 2921298, 'size_96ogg': 2707317, 'size_ape': 25929133, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 26171656, 'size_hires': 0, 'size_new': [
+                                            173492071,
+                                            25879524,
+                                            65904795,
+                                            9532210,
+                                            0,
+                                            20149943
+                                        ], 'size_try': 960887, 'try_begin': 57055, 'try_end': 91835, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 4758498, 'index_album': 18, 'index_cd': 0, 'interval': 239, 'isonly': 0, 'ksong': {'id': 10135, 'mid': '000n4lOd35gELj'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '0034axGS2MI3sT', 'mv': {'id': 55327, 'name': '', 'title': '', 'vid': 'l00131om505', 'vt': 0
+                                    }, 'name': '青花瓷', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 1024, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '2013-02-22', 'title': '青花瓷', 'title_hilight': '青花瓷', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        -6.864171981811523,
+                                        0.9999690055847168,
+                                        5.396133899688721
+                                    ], 'vi': [
+                                        2317
+                                    ], 'volume': {'gain': -7.070000171661377, 'lra': 5.3979997634887695, 'peak': 1
+                                    }, 'vs': ['062R3mK92kC7qZ', '', '', '00451QUq0Gtmrw', '004FOV8h1wdqHX', '', '', '', '', '001lWywi2VEXj2'
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                                    }, 'album': {'id': 221832, 'mid': '003HIs3Y4Guyhc', 'name': '爱在飞翔', 'pmid': '003HIs3Y4Guyhc_2', 'subtitle': '', 'time_public': '', 'title': '爱在飞翔'
+                                    }, 'bpm': 54, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '6285612381849722370', 'eq': 2, 'es': '', 'file': {'b_30s': 13888, 'e_30s': 73888, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '001R1Xwn1tks77', 'size_128mp3': 3833299, 'size_192aac': 5800134, 'size_192ogg': 5428581, 'size_24aac': 0, 'size_320mp3': 9582137, 'size_360ra': [], 'size_48aac': 1454337, 'size_96aac': 2921303, 'size_96ogg': 2707537, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 26171656, 'size_hires': 0, 'size_new': [
+                                            173480063,
+                                            25879588,
+                                            65903668,
+                                            9532212,
+                                            0,
+                                            20149943
+                                        ], 'size_try': 960887, 'try_begin': 57057, 'try_end': 91832, 'url': ''
+                                    }, 'fnote': 4009, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 2800505, 'index_album': 11, 'index_cd': 0, 'interval': 239, 'isonly': 0, 'ksong': {'id': 10135, 'mid': '000n4lOd35gELj'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '001h7s3Z2E5nOz', 'mv': {'id': 55327, 'name': '', 'title': '', 'vid': 'l00131om505', 'vt': 0
+                                    }, 'name': '青花瓷', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 1024, 'singer': [
+                                        {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '2008-03-01', 'title': '青花瓷', 'title_hilight': '青花瓷', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        -6.860416889190674,
+                                        0.9999690055847168,
+                                        5.3961358070373535
+                                    ], 'vi': [
+                                        2317
+                                    ], 'volume': {'gain': -7.070000171661377, 'lra': 5.3979997634887695, 'peak': 1
+                                    }, 'vs': ['064VYKJD2AeN47', '', '', '002U147K3mEvXB', '002tFg1i4VByJr', '', '', '', '', '001yfvLC1B6ahl'
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 0
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '14430522875545444139', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '000bgUiE1tx36x', 'size_128mp3': 2226243, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 849825, 'size_96aac': 1704365, 'size_96ogg': 1426316, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ], 'size_try': 0, 'try_begin': 43092, 'try_end': 79499, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 435153773, 'index_album': -31073, 'index_cd': 0, 'interval': 139, 'isonly': 0, 'ksong': {'id': 95987905, 'mid': '001QITAc0vVKEE'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '000bgUiE1tx36x', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '青花瓷 (徐佳莹 原唱)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '青花瓷 (徐佳莹 原唱)', 'title_hilight': '青花瓷 (徐佳莹 原唱)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -8.843999862670898, 'lra': 1.5720000267028809, 'peak': 1
+                                    }, 'vs': ['', '000yqsXF12zGOa', '', '', '', '', '', '', '', ''
+                                    ]
+                                },
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 0
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '热点 : 周杰伦歌曲精选', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '热点 : 周杰伦歌曲精选', 'desc_hilight': '热点 : <em>周杰伦</em>歌曲精选', 'docid': '4835199513126095601', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '001sVVSO1nrh1N', 'size_128mp3': 960014, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 368472, 'size_96aac': 737417, 'size_96ogg': 655626, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ], 'size_try': 0, 'try_begin': 37741, 'try_end': 55217, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 456036274, 'index_album': 0, 'index_cd': 0, 'interval': 59, 'isonly': 0, 'ksong': {'id': 69123909, 'mid': '002xZ8CY2eqM3h'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '001sVVSO1nrh1N', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '青花瓷', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '热点 : 周杰伦歌曲精选', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '青花瓷', 'title_hilight': '青花瓷', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': -3.00600004196167, 'lra': 5.377999782562256, 'peak': 0.9070000052452087
+                                    }, 'vs': ['', '000KGmIz4P5j0s', '', '', '', '', '', '', '', ''
+                                    ]
+                                }
+                            ], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 410316, 'index_album': 3, 'index_cd': 0, 'interval': 239, 'isonly': 0, 'ksong': {'id': 10135, 'mid': '000n4lOd35gELj'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '002qU5aY3Qu24y', 'mv': {'id': 55327, 'name': '', 'title': '', 'vid': 'l00131om505', 'vt': 0
+                            }, 'name': '青花瓷', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 0, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2007-11-02', 'title': '青花瓷', 'title_hilight': '青花瓷', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -6.953615188598633,
+                                0.9999690055847168,
+                                5.403660774230957
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -7.070000171661377, 'lra': 5.4070000648498535, 'peak': 1
+                            }, 'vs': ['061FTWlj3aXk4G', '', '', '004TWdfN1tg87t', '003yf1nV3Gi5G6', '', '', '', '', '002SPsic3ewRVc'
+                            ]
+                        },
+                        {'act': 3, 'action': {'alert': 41, 'icon2': 0, 'icons': 12861438, 'msgdown': 0, 'msgfav': 0, 'msgid': 13, 'msgpay': 6, 'msgshare': 0, 'switch': 16897281, 'switch2': 0
+                            }, 'album': {'id': 1458791, 'mid': '003RMaRI1iFoYd', 'name': '周杰伦的床边故事', 'pmid': '003RMaRI1iFoYd_1', 'subtitle': '', 'time_public': '', 'title': '周杰伦的床边故事'
+                            }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '7065911643897223382', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 60000, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003gbY6c0g1L4Q', 'size_128mp3': 3450877, 'size_192aac': 5215383, 'size_192ogg': 5027341, 'size_24aac': 0, 'size_320mp3': 8626883, 'size_360ra': [], 'size_48aac': 1323936, 'size_96aac': 2641182, 'size_96ogg': 2504843, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 47089150, 'size_hires': 0, 'size_new': [
+                                    156978121,
+                                    24259301,
+                                    60865273,
+                                    8997917,
+                                    0,
+                                    18797579
+                                ], 'size_try': 960887, 'try_begin': 64732, 'try_end': 85652, 'url': ''
+                            }, 'fnote': 4009, 'genre': 0, 'grp': [
+                                {'act': 3, 'action': {'alert': 11, 'icon2': 0, 'icons': 135752, 'msgdown': 0, 'msgfav': 0, 'msgid': 0, 'msgpay': 0, 'msgshare': 0, 'switch': 81683, 'switch2': 0
+                                    }, 'album': {'id': 0, 'mid': '', 'name': '', 'pmid': '0030lak94GN5Ad_0', 'subtitle': '', 'time_public': '', 'title': ''
+                                    }, 'bpm': 0, 'content': '', 'desc': '', 'desc_hilight': '', 'docid': '3821795876509662278', 'eq': 0, 'es': '', 'file': {'b_30s': 0, 'e_30s': 0, 'hires_bitdepth': 0, 'hires_sample': 0, 'media_mid': '003c7wd338bhi4', 'size_128mp3': 1843830, 'size_192aac': 0, 'size_192ogg': 0, 'size_24aac': 0, 'size_320mp3': 0, 'size_360ra': [], 'size_48aac': 701538, 'size_96aac': 1399252, 'size_96ogg': 965847, 'size_ape': 0, 'size_dolby': 0, 'size_dts': 0, 'size_flac': 0, 'size_hires': 0, 'size_new': [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ], 'size_try': 0, 'try_begin': 44485, 'try_end': 73321, 'url': ''
+                                    }, 'fnote': 8013, 'genre': 0, 'grp': [], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                                    }, 'href3': '', 'id': 324048335, 'index_album': 0, 'index_cd': 0, 'interval': 115, 'isonly': 0, 'ksong': {'id': 23889359, 'mid': '002y64gQ3tL6bb'
+                                    }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003c7wd338bhi4', 'mv': {'id': 0, 'name': '', 'title': '', 'vid': '', 'vt': 0
+                                    }, 'name': '告白气球(精彩音乐汇)', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 0, 'pay_month': 0, 'pay_play': 0, 'pay_status': 0, 'price_album': 0, 'price_track': 0, 'time_free': 0
+                                    }, 'protect': 0, 'sa': 0, 'singer': [
+                                        {'id': 0, 'mid': '', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                        }
+                                    ], 'status': 0, 'subtitle': '', 'tag': 0, 'tid': 0, 'time_public': '', 'title': '告白气球(精彩音乐汇)', 'title_hilight': '告白气球(精彩音乐汇)', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                        0,
+                                        0,
+                                        0
+                                    ], 'vi': [
+                                        0
+                                    ], 'volume': {'gain': 3.578000068664551, 'lra': 2.937999963760376, 'peak': 0.3959999978542328
+                                    }, 'vs': ['', '002t0xvW3rkZbk', '', '', '', '', '', '', '', ''
+                                    ]
+                                }
+                            ], 'hotness': {'desc': '', 'icon_url': '', 'jump_type': 0, 'jump_url': ''
+                            }, 'href3': '', 'id': 107192078, 'index_album': 8, 'index_cd': 0, 'interval': 215, 'isonly': 0, 'ksong': {'id': 2313607, 'mid': '002gSnbX3Xznq0'
+                            }, 'label': '0', 'language': 0, 'lyric': '', 'lyric_hilight': '', 'mid': '003OUlho2HcRHC', 'mv': {'id': 1053277, 'name': '', 'title': '', 'vid': 'u00222le4ox', 'vt': 0
+                            }, 'name': '告白气球', 'newStatus': 2, 'ov': 0, 'pay': {'pay_down': 1, 'pay_month': 1, 'pay_play': 1, 'pay_status': 0, 'price_album': 2000, 'price_track': 200, 'time_free': 0
+                            }, 'protect': 11, 'sa': 17408, 'singer': [
+                                {'id': 4558, 'mid': '0025NhlN2yWrP4', 'name': '周杰伦', 'pmid': '', 'title': '周杰伦', 'type': 0, 'uin': 0
+                                }
+                            ], 'status': 0, 'subtitle': '', 'tag': 11, 'tid': 0, 'time_public': '2016-06-24', 'title': '告白气球', 'title_hilight': '告白气球', 'type': 0, 'url': '', 'version': 0, 'vf': [
+                                -9.027006149291992,
+                                0.9999690055847168,
+                                5.027908802032471
+                            ], 'vi': [
+                                2317
+                            ], 'volume': {'gain': -8.989999771118164, 'lra': 5.026000022888184, 'peak': 0.996999979019165
+                            }, 'vs': ['064CLTwV32wz04', '', '', '001vYILn38rHO2', '000Q4PxP1lIXAx', '', '', '', '', '002JVlc22Yzm2r'
+                            ]
+                        }
+                    ]
+                }, 'songlist': {'list': []
+                }, 'user': {'list': []
+                }, 'zhida': {'list': [
+                        {'album_list': {'items': [
+                                    {'id': 44806901, 'mid': '001ln9YB420a7b', 'name': '圣诞星 (feat. 杨瑞代)'
+                                    },
+                                    {'id': 28791467, 'mid': '0042cH172YJ0mz', 'name': '最伟大的作品'
+                                    },
+                                    {'id': 12924001, 'mid': '0009C3rp3Kfwg0', 'name': 'Mojito'
+                                    },
+                                    {'id': 9612009, 'mid': '001hGx1Z0so1YX', 'name': '我是如此相信'
+                                    },
+                                    {'id': 9040723, 'mid': '004fXSyj3bWTMN', 'name': '周杰伦地表最强世界巡回演唱会'
+                                    },
+                                    {'id': 7876962, 'mid': '002gBTVk4JEE2T', 'name': '说好不哭（with 五月天阿信）'
+                                    }
+                                ]
+                            }, 'custom_info': {'album_num': '37', 'extra_desc': '4204.8万人关注', 'grade': '1', 'icon_type': '1', 'is_follow': '0', 'mid': '0025NhlN2yWrP4', 'mv_num': '10311', 'one_line_desc': '4205万粉丝', 'parent_ids': '4558', 'recall_smart': '', 'song_num': '858', 'tab_id': 'song'
+                            }, 'desciption': '歌曲: 858 专辑: 37 视频: 10311', 'docid': '1: 4558', 'id': '4558', 'jumpurl': '', 'mid': '', 'pic': 'http: //y.gtimg.cn/music/photo_new/T001R150x150M0000025NhlN2yWrP4_8.jpg', 'publish_date': '', 'title': '周杰伦', 'track_list': {'items': [{'id': 457240977, 'mid': '0016aXcd24qSC8', 'name': '圣诞星 (feat. 杨瑞代)'}, {'id': 97773, 'mid': '0039MnYb0qxYhV', 'name': '晴天'}, {'id': 97759, 'mid': '0017K7gL4WYnw2', 'name': '反方向的钟'}, {'id': 449201, 'mid': '00128N3r2SYKMF', 'name': '兰亭序'}, {'id': 449200, 'mid': '0042QMDR1VzSsx', 'name': '说好的幸福呢'}, {'id': 5105986, 'mid': '001xd0HI0X9GNq', 'name': '一路向北'}, {'id': 449205, 'mid': '003aAYrm3GE0Ac', 'name': '稻香'}, {'id': 718477, 'mid': '001zMQr71F1Qo8', 'name': '夜曲'}, {'id': 680284, 'mid': '0022b7OX2STU86', 'name': '我落泪情绪零碎'}, {'id': 102065756, 'mid': '004Z8Ihr0JIu5s', 'name': '七里香'}, {'id': 718479, 'mid': '003KtYhg4frNXC', 'name': '枫'}, {'id': 449198, 'mid': '003cI52o4daJJL', 'name': '花海'}, {'id': 3585884, 'mid': '000oW8J53xPhZA', 'name': '明明就'}, {'id': 102065750, 'mid': '001Bbywq2gicae', 'name': '搁浅'}, {'id': 102340965, 'mid': '004Yi5BD3ksoAN', 'name': '蒲公英的约定'}, {'id': 410316, 'mid': '002qU5aY3Qu24y', 'name': '青花瓷'}]}, 'type': 1, 'vid': '', 'video_type': 0}]}}, 'code': 0, 'feedbackURL': '', 'meta': {'cid': '', 'curpage': 1, 'dir': 'L', 'display_order': [], 'ein': 10, 'estimate_sum': 37475, 'expid': '38162010,3040001', 'is_filter': 0, 'next_page_start': {}, 'nextpage': 2, 'perpage': 10, 'query': '周杰伦', 'result_trustworthy': 1, 'ret': 0, 'safetyType': 0, 'safetyUrl': '', 'searchid': '71879864032731085', 'sid': '', 'sin': 0, 'sum': 683, 'tab_list': [], 'uid': '', 'v': 0}, 'ver': 0}}}
